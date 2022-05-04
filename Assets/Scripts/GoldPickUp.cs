@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GoldPickUp : MonoBehaviour
 {
-
+    public SoundManager sm;
     public int value;
     
     // Start is called before the first frame update
@@ -25,10 +25,15 @@ public class GoldPickUp : MonoBehaviour
 
             FindObjectOfType<GameManager>().AddGold(value);
 
-            Destroy(gameObject); 
+           
+            sm.Playcoin();
+            
+            Destroy(gameObject);
+
+            return;
+        
         }
-
-
+  
 
     }
 

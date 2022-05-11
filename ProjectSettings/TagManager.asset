@@ -6,6 +6,7 @@ TagManager:
   tags:
   - spider_pref
   - Health
+  - Fire
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - LED_Square_example
   - Water
   - UI
-  - 
+  - post processing
   - 
   - 
   - 

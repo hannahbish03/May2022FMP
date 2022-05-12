@@ -272,7 +272,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Collect 20 coins to win, but be careful of the spiders
+  m_Text: Collect 10 coins to win, but be careful of the spiders
 --- !u!222 &386230929
 CanvasRenderer:
   m_ObjectHideFlags: 0

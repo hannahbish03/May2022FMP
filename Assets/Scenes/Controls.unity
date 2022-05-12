@@ -524,8 +524,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -333, y: 59}
-  m_SizeDelta: {x: 397.8549, y: 373.5583}
+  m_AnchoredPosition: {x: -291.72888, y: 59}
+  m_SizeDelta: {x: 480.3972, y: 373.5583}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1291666405
 MonoBehaviour:
@@ -561,7 +561,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "W - To move forward\nA - To move to the left\nS - To go backwards\nD -
-    To move right\n\nShift to move camera back\nSpace to Jump \n"
+    To move right\n\nShift - to move camera back\nSpace - Jump \n"
 --- !u!222 &1291666406
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -672,8 +672,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 281, y: -330.97992}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 288.93237, y: -330.97992}
+  m_SizeDelta: {x: 173.7274, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1687411770
 MonoBehaviour:
